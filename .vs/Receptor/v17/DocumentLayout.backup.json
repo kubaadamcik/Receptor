@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jakub\\RiderProjects\\Receptor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB79672-F2C6-4377-82C9-EA59FD46E10C}|Receptor\\Receptor.csproj|c:\\users\\jakub\\riderprojects\\receptor\\receptor\\view\\usercontrols\\searchbar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DCB79672-F2C6-4377-82C9-EA59FD46E10C}|Receptor\\Receptor.csproj|solutionrelative:receptor\\view\\usercontrols\\searchbar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB79672-F2C6-4377-82C9-EA59FD46E10C}|Receptor\\Receptor.csproj|c:\\users\\jakub\\riderprojects\\receptor\\receptor\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DCB79672-F2C6-4377-82C9-EA59FD46E10C}|Receptor\\Receptor.csproj|solutionrelative:receptor\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB79672-F2C6-4377-82C9-EA59FD46E10C}|Receptor\\Receptor.csproj|c:\\users\\jakub\\riderprojects\\receptor\\receptor\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DCB79672-F2C6-4377-82C9-EA59FD46E10C}|Receptor\\Receptor.csproj|solutionrelative:receptor\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SearchBar.xaml",
+              "DocumentMoniker": "C:\\Users\\jakub\\RiderProjects\\Receptor\\Receptor\\View\\UserControls\\SearchBar.xaml",
+              "RelativeDocumentMoniker": "Receptor\\View\\UserControls\\SearchBar.xaml",
+              "ToolTip": "C:\\Users\\jakub\\RiderProjects\\Receptor\\Receptor\\View\\UserControls\\SearchBar.xaml*",
+              "RelativeToolTip": "Receptor\\View\\UserControls\\SearchBar.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-11T08:50:07.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\jakub\\RiderProjects\\Receptor\\Receptor\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Receptor\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\jakub\\RiderProjects\\Receptor\\Receptor\\MainWindow.xaml",
+              "RelativeToolTip": "Receptor\\MainWindow.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-11T08:48:45.215Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "c779dc05-45d6-4663-946e-f206e237e5ed",
+        "Display": 1,
+        "X": 610,
+        "Y": -43,
+        "Width": 1387,
+        "Height": 951,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\jakub\\RiderProjects\\Receptor\\Receptor\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Receptor\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\jakub\\RiderProjects\\Receptor\\Receptor\\MainWindow.xaml",
+              "RelativeToolTip": "Receptor\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-11T08:48:35.248Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
