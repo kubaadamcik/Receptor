@@ -23,9 +23,9 @@
                  VerticalContentAlignment="Center" FontSize="13" Padding="10, 0, 0, 0"
                  LostFocus="ShowPlaceholder"></TextBox>
 
-        <Image Grid.Column="1" Source="../../Images/Search-icon.png" Width="30" Height="30"></Image>
+        <Image Grid.Column="1" Source="pack://application:,,,/Images/Search-icon.png" Width="30" Height="30"></Image>
 
-        <Button Grid.Column="1" Background="Transparent" BorderThickness="0"></Button>
+        <Button Grid.Column="1" Background="Transparent" BorderThickness="1, 0, 0, 0" BorderBrush="Black"></Button>
 
 
     </Grid>

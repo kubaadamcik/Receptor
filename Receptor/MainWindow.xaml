@@ -15,11 +15,23 @@
         </Grid.ColumnDefinitions>
 
         <Grid.RowDefinitions>
+            <RowDefinition Height="0.12*"></RowDefinition>
+            <RowDefinition></RowDefinition>
             <RowDefinition Height="0.2*"></RowDefinition>
-            <RowDefinition></RowDefinition>
-            <RowDefinition></RowDefinition>
         </Grid.RowDefinitions>
 
-        <userControls:SearchBar Grid.Column="1" BorderBrush="Black" BorderThickness="1"></userControls:SearchBar>
+        <Border Grid.ColumnSpan="3" Background="LightSteelBlue"></Border>
+
+        <userControls:SearchBar Grid.Row="0" Grid.Column="1" BorderBrush="Black" BorderThickness="1"></userControls:SearchBar>
+
+        <Grid Grid.Row="1" Grid.ColumnSpan="3">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+
+
+        </Grid>
     </Grid>
 </Window>
