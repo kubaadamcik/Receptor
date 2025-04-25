@@ -24,6 +24,9 @@
 
         <userControls:SearchBar Grid.Row="0" Grid.Column="1" BorderBrush="Black" BorderThickness="1"></userControls:SearchBar>
 
+        <Button Grid.Row="0" Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Center"
+                Content="Přidat recept" Padding="5" FontSize="20" ></Button>
+
         <Grid Grid.Row="1" Grid.ColumnSpan="3">
             <Grid.ColumnDefinitions>
                 <ColumnDefinition></ColumnDefinition>

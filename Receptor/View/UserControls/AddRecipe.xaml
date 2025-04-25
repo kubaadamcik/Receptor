@@ -1,0 +1,17 @@
+﻿<UserControl x:Class="Receptor.View.UserControls.AddRecipe"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:local="clr-namespace:Receptor.View.UserControls"
+             mc:Ignorable="d"
+             d:DesignHeight="50" d:DesignWidth="300">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="3*"></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <Button Grid.ColumnSpan="2" Background="Transparent" FontSize="20" Content="Přidat recept"></Button>
+    </Grid>
+</UserControl>
