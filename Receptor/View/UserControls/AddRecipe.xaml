@@ -12,6 +12,7 @@
             <ColumnDefinition></ColumnDefinition>
         </Grid.ColumnDefinitions>
 
+        <Image Source="../../Images/plus-icon.jpg" HorizontalAlignment="Left"></Image>
         <Button Grid.ColumnSpan="2" Background="Transparent" FontSize="20" Content="Přidat recept"></Button>
     </Grid>
 </UserControl>
